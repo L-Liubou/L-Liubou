@@ -1,5 +1,5 @@
 hello, world!
-# I'm JUNIOUR FRONTEND DEVELOPER 🐣
+# I'm jr FRONTEND DEVELOPER  <img src="assets/girl.svg" width="50" height="30" alt="girl">
 
 ### ✦ with a goal to build beautiful, user-friendly, and efficient web applications
 
@@ -9,12 +9,17 @@ hello, world!
 
 *Here, I receive quality education and learn best practices and technologies used in real-world projects*
 
-
----
-
 ## My Toolbox:
+<img src="assets/html5.svg" width="70" height="77" alt="html icon">
+<img src="assets/css3.svg" width="70" height="77" alt="css icon">
+<img src="assets/js.svg" width="55" height="80" alt="js icon">
+<img src="assets/bootstrap.svg" width="79" height="79" alt="bootstrap icon">
+<img src="assets/figma.svg" width="55" height="76" alt="figma icon">
+<img src="assets/sass.svg" width="70" height="80" alt="sass icon">
+<img src="assets/git.svg" width="80" height="80" alt="git icon">
 
 and this is just a beginning...
+
 ## Projects:
 
 ➥ [AUDIO PLAYER](https://rolling-scopes-school.github.io/l-liubou-JSFEPRESCHOOL2024Q2/audio-player/)
