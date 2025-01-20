@@ -10,13 +10,15 @@ hello, world!
 *Here, I receive quality education and learn best practices and technologies used in real-world projects*
 
 ## My Toolbox:
-<img src="assets/html5.svg" width="70" height="77" alt="html icon">
-<img src="assets/css3.svg" width="70" height="77" alt="css icon">
-<img src="assets/js.svg" width="55" height="80" alt="js icon">
-<img src="assets/bootstrap.svg" width="79" height="79" alt="bootstrap icon">
-<img src="assets/figma.svg" width="55" height="76" alt="figma icon">
-<img src="assets/sass.svg" width="70" height="80" alt="sass icon">
-<img src="assets/git.svg" width="80" height="80" alt="git icon">
+<div style = "display: flex; gap: 10px;">
+    <img src="assets/html5.svg" width="70" alt="html icon">
+    <img src="assets/css3.svg" width="70" alt="css icon">
+    <img src="assets/js.svg" width="55" height="73" alt="js icon">
+    <img src="assets/bootstrap.svg" width="79" height="74" alt="bootstrap icon">
+    <img src="assets/figma.svg" width="50" height="76" alt="figma icon">
+    <img src="assets/sass.svg" width="70" height="80" alt="sass icon">
+    <img src="assets/git.svg" width="80" height="80" alt="git icon">
+</div>
 
 and this is just a beginning...
 
