@@ -9,16 +9,8 @@ hello, world!
 
 *Here, I receive quality education and learn best practices and technologies used in real-world projects*
 
-## My Toolbox:
-<div style = "display: flex; gap: 10px;">
-    <img src="assets/html5.svg" width="70" alt="html icon">
-    <img src="assets/css3.svg" width="70" alt="css icon">
-    <img src="assets/js.svg" width="55" height="73" alt="js icon">
-    <img src="assets/bootstrap.svg" width="79" height="74" alt="bootstrap icon">
-    <img src="assets/figma.svg" width="50" height="76" alt="figma icon">
-    <img src="assets/sass.svg" width="70" height="80" alt="sass icon">
-    <img src="assets/git.svg" width="80" height="80" alt="git icon">
-</div>
+## Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 and this is just a beginning...
 
